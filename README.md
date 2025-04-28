@@ -1,194 +1,96 @@
-# 🤖 Knight Bot
-
-This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
-
-<div align="center"> 
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" />
-  </a> 
-</div> 
-
-<div align="center"> 
-  <a href="https://youtube.com/@mr_unique_hacker"> 
-    <img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
-  </a> 
-</div>
-
+<div class = "repo" align = "center">
+ 
+<a href = "#">
+<img src = "https://i.ibb.co/5WyPqpwB/2logojpg.jpg"  width="640" height="309">
+</img>
+ 
 ---
-
-## 🚀 Steps to Deploy
-
-### Step 1: Fork the Repository
-
-Click the button below to fork the Knight Bot repository to your GitHub account:
-
-<div align="center">
-  <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
-    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
-  </a>
-</div>
-
----
-
-### Step 2: Get Pair Code
-
-Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
-
-<div align="center">
-  <a href="https://replit.com/@DGXeon/Xeon-PairCode?v=1">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Replit-success?style=for-the-badge" alt="Deploy on Replit"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://knight-bot-paircode.onrender.com">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
-  </a>
-</div>
-
-
-### After getting creds.json file, upload it to session folder
-
----
-
-### Step 3: Deploy Now
-
-For further customization and setup guidance, click the button below:
-
-<div align="center">
-  <a href="https://youtu.be/dDyiEHF8rIQ">
-    <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
-  </a>
-  <a href="https://bot-hosting.net/?aff=1068419752923508776">
-    <img src="https://img.shields.io/badge/Deploy on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
-  </a>
-</div>
-
-
-### Deploy Now on Below Panel
-<div align="center">
-<a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
-  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=FF1043&lines=Welcome+to+my+Repository!;QUEEN+ANJU+XPRO;Thanks+for+visiting!"/>
 </a>
-</div>
-
-### Join Us
-
-<div align="center">
-  <a href="https://t.me/+3QhFUZHx-nhhZmY1">
-    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
-  </a>
-  <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
-  </a>
-</div>
 
 ---
 
-## ⚙️ Features
-
-- **Tag all group members** with the `.tagall` command
-- **Admin restricted usage** (Only group admins can use certain commands)
-- **Games** like Tic-Tac-Toe for interactive group engagement
-- **Text-to-Speech** with `.tts`
-- **Sticker creation** with `.sticker`
-- **Anti-link detection** for group safety
-- **Warn and manage group members** with admin control
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mrrashmika&theme=darkhub&no-frame=true&margin-w=4"/>
+</p>
 
 ---
 
-## 📖 About
-
-The Knight WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
-
-It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
+</p>
 
 ---
 
-## 🛠️ Setup & Installation
+<p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-GAMING_RASH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="LOGO DESIGNER" src="https://img.shields.io/badge/LOGO_DESIGNER-NIKO_PAMIYA-red.svg?style=for-the-badge&logo=github"></a>
 
-### Prerequisites
+<a href = ""><img alt="GAMING RASH" src="https://img.shields.io/youtube/channel/subscribers/UChrUGbOqQ6BZUAAsffJPPsw" target="_blank" /></a>
+</p>
+<p align="center">
+<a href="https://github.com/Mr-Janith?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Mrrashmika?color=green&style=flat-square"></a>
+<a href="https://github.com/Mr-Janith/ANJU_XPRO/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mr-Janith/ANJU_XPRO?color=white&style=flat-square"></a>
+<a href="https://github.com/Mr-Janith/ANJU_XPRO/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mr-Janith/ANJU_XPRO?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Mr-Janith/ANJU_XPRO/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mr-Janith/ANJU_XPRO?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/Mr-Janith/ANJU_XPRO"><img title="Size" src="https://img.shields.io/github/repo-size/Mr-Janith/ANJU_XPRO?style=flat-square&color=darkred"></a>
+<a href="https://github.com/Mr-Janith/ANJU_XPRO/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 
-- Node.js installed on your system
-- Git installed (for cloning the repository)
+### Please Read !
+Queen Anju is a whatsapp bot created by Gaming rash ( Janith Rashmika ) using baileys web api. Do not use this bot in a way that will cause trouble to others. 
+We are not responsible for any problems caused by your use of this!
+And Subscribe GAMING RASH and give one star for queen anju.
+</br>
+#### Give One star For Queen Anju and [Follow Me](https://github.com/Mrrashmika) 
 
-### Step-by-Step Setup
+## How create queen Anju.
 
-1. **Clone the repository:**
+**. Deploy steps.*
+ - 1._Fork queen Anju repository._
+    <br>
+    <a href="https://github.com/Mr-Janith/ANJU_XPRO/fork"><img title="QUEEN_ANJU-MD" src="https://img.shields.io/badge/FORK QUEEN_ANJU-h?color=black&style=for-the-badge&logo=stackshare"></a>
+ - 2._Link with yoour whatsappp using pair code._
+   **Pair with WhatsApp*
 
-    ```bash
-    git clone https://github.com/mruniquehacker/Knightbot-MD.git
-    cd Knightbot-MD
-    ```
+   @SITE 1
+   <p align="center">
+       <a href="https://similar-tarantula-gamingrash-eb07f801.koyeb.app/">
+         <img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
+       </a>
+   </p>
+   
+      @SITE 2
+   <p align="center">
+       <a href="https://anju-pair.onrender.com">
+         <img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
+       </a>
+   </p>
+ - _Open config.js on your forked repository. and put `SESSION_ID` and change other settings you need._
+ - _Deploy using your host._
+   </br>
 
-2. **Install the dependencies:**
+  1..DEPLOY ON RENDER
 
-    ```bash
-    npm install
-    ```
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Mr-Janith/ANJU_XPRO.git)
 
-3. **Run the bot:**
+***<p align="center"> • [`Tap here for Render tutorial`](https://youtu.be/aIUe2sEmd_E?si=WiL0IMrI79GJuog9) </p>***
 
-    ```bash
-    node index.js
-    ```
+   2..DEPLOY ON GITHUB
 
-4. **Scan the QR code:**
+***<p align="center"> • [`Tap here for Github deploy tutorial`](https://youtu.be/NHxe-ynZmGI) </p>***
 
-    Once the bot starts, a QR code will appear in the terminal. Scan this QR code using the Linked Devices feature in WhatsApp to connect your WhatsApp account with the bot.
+   3..DEPLOY ON KOYEB
 
----
-
-
-## 📄 License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/mruniquehacker/Knightbot-MD/blob/main/LICENSE) file for details.
-
----
-
-## 🙌 Contributions
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mruniquehacker/Knightbot-MD/issues).
-
----
-
-## 🌟 Show your support
-
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Knightbot)!
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=queen-anju-md&type=git&repository=Mr-Janiya%2FANJU_XPRO&branch=V-2.00&builder=dockerfile&env%5BMONGODB%5D=your+mongodb+uri&env%5BSESSION_ID%5D=your+session+id&ports=8000%3Bhttp%3B%2F)
 
 
-## Credits
 
-- [Professor](https://github.com/mruniquehacker)
-- [Baileys](https://github.com/adiwajshing/Baileys)
-- [TechGod143](https://github.com/TechGod143) for pair code
-- [Dgxeon](https://github.com/Dgxeon) for pair code
+  4..Deploy on Heroku
+  <p align="center">
+    <a href="https://heroku.com/deploy?template=https://github.com/Mr-Janith/ANJU_XPRO">
+      <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
+    </a>
+  </p>
 
----
-
-## ⚠️ Important Warning
-
-**Note:** This bot is created for educational purposes only. This is NOT an official WhatsApp bot. Using this bot may lead to your WhatsApp account being banned. Use it at your own risk. The developers will not be responsible for any consequences or account bans that may occur while using this bot.
-
-## 📝 Legal
-
-- This project is not affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries.
-- This is an independent and unofficial software. Use at your own risk.
-- Do not spam people with this bot.
-- Do not use this bot to send bulk messages or for illegal purposes.
-- The developers assume no liability and are not responsible for any misuse or damage caused by this program.
-
-### License
-This project is licensed under the MIT License. However, you must:
-- Use this software in compliance with all applicable laws and regulations
-- Include original license and copyright notices
-- Credit original authors
-- Not use for spam or malicious purposes
-
-## 📜 Copyright Notice
-
-Copyright (c) 2024 Professor. All rights reserved.
-
-This project contains code from various open source projects:
-- Baileys (MIT License)
-- Other libraries as listed in package.json
